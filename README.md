@@ -8,11 +8,11 @@ I'm interested in security operations: finding attacks in logs, analyzing phishi
 
 | Project | What it does | Built with |
 |---|---|---|
-| [SSH Log Attack Detector](https://github.com/rayhanahmedshium-ai/log-attack-detector) | Finds brute-force login attacks in Linux auth logs and flags attackers who got in | Python, regex, Matplotlib |
-| [Phishing Email Analyzer](https://github.com/rayhanahmedshium-ai/phishing-email-analyzer) | Scores `.eml` files for phishing signs: spoofed senders, failed SPF/DKIM/DMARC, deceptive links, risky attachments | Python, email/MIME parsing |
-| [Password Security Checker](https://github.com/rayhanahmedshium-ai/password-security-checker) | Rates password strength and checks breach exposure using k-anonymity, so the password is never sent | Python, SHA-1, REST API |
-| [Port Scanner](https://github.com/rayhanahmedshium-ai/port-scanner) | Multi-threaded TCP scanner with banner grabbing and service identification | Python, sockets, threading |
-| [Snake Game](https://github.com/rayhanahmedshium-ai/Snake-Game-Java) | Classic arcade game with speed levels and collision detection | Java, Swing |
+| [SSH Log Attack Detector](https://github.com/rayhanahmedshium/log-attack-detector) | Finds brute-force login attacks in Linux auth logs and flags attackers who got in | Python, regex, Matplotlib |
+| [Phishing Email Analyzer](https://github.com/rayhanahmedshium/phishing-email-analyzer) | Scores `.eml` files for phishing signs: spoofed senders, failed SPF/DKIM/DMARC, deceptive links, risky attachments | Python, email/MIME parsing |
+| [Password Security Checker](https://github.com/rayhanahmedshium/password-security-checker) | Rates password strength and checks breach exposure using k-anonymity, so the password is never sent | Python, SHA-1, REST API |
+| [Port Scanner](https://github.com/rayhanahmedshium/port-scanner) | Multi-threaded TCP scanner with banner grabbing and service identification | Python, sockets, threading |
+| [Snake Game](https://github.com/rayhanahmedshium/Snake-Game-Java) | Classic arcade game with speed levels and collision detection | Java, Swing |
 
 ## Skills
 
