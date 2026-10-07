@@ -16,9 +16,9 @@ I'm interested in security operations: finding attacks in logs, analyzing phishi
 
 ## Skills
 
-**Languages:** Python, Java, SQL, R, HTML
-**Security:** log analysis, phishing analysis, network scanning, password security, SPF/DKIM/DMARC
-**Data:** Matplotlib, Seaborn, Plotly, Tableau, Excel
+- **Languages:** Python, Java, SQL, R, HTML
+- **Security:** log analysis, phishing analysis, network scanning, password security, SPF/DKIM/DMARC
+- **Data:** Matplotlib, Seaborn, Plotly, Tableau, Excel
 
 ## Certifications
 
